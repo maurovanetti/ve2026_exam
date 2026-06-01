@@ -2017,7 +2017,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 0.54788184, g: 0.5764317, b: 0.6792453, a: 1}
-  m_Intensity: 20
+  m_Intensity: 6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2059,7 +2059,7 @@ Light:
   m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 0.5
+  m_BounceIntensity: 0.2
   m_ColorTemperature: 15546
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -3939,10 +3939,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.1
+      - m_Value: 0.05
         m_Name: Speed
         m_Overridden: 1
-      - m_Value: 0.005
+      - m_Value: 0.004
         m_Name: Size
         m_Overridden: 1
     m_Vector2f:
